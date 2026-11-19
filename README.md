@@ -1,4 +1,8 @@
-# LAN Hokm
+# local hokm
+
+hokm with no intruption
+
+<img src="docs/images/local-hokm.png" alt="Local Hokm app join screen in Persian" width="360" />
 
 One room, four players, Persian mobile UI. Requires Node.js 20.19+ or 22.12+.
 
